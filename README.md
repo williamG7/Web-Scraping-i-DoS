@@ -465,27 +465,6 @@ copies of the Software...
 
 - 🔗 **GitHub:** [@williamG7](https://github.com/williamG7)
 - 📧 **Email:** contacto@williamguzman.dev
-- 💼 **LinkedIn:** [William Guzmán](https://linkedin.com/in/williamguzman)
-
----
-
-## 🙏 Agradecimientos
-
-- 📚 Comunidad de cybersecurity y ethical hacking
-- 🎓 OWASP por recursos educativos de seguridad
-- 💡 Todos los contribuidores del proyecto
-- 🔐 Expertos en seguridad que comparten conocimiento
-
----
-
-## 📞 Soporte y Contacto
-
-¿Preguntas o sugerencias?
-
-- 📧 Abre un issue en GitHub
-- 💬 Discutir en Discussions
-- 🐛 Reporta bugs con detalles
-- 💡 Propón mejoras y features
 
 ---
 
