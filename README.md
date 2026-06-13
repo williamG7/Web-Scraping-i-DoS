@@ -464,7 +464,6 @@ copies of the Software...
 **William Guzmán**
 
 - 🔗 **GitHub:** [@williamG7](https://github.com/williamG7)
-- 📧 **Email:** contacto@williamguzman.dev
 
 ---
 
